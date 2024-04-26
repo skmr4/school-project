@@ -1,0 +1,50 @@
+body{
+    background-color: #ccccff;
+}
+#mainDiv{
+    width: 100%;
+    font-size: 20px;
+}
+input{
+    padding: 5px;
+    border: 1px solid black;
+    width: 250px;
+}
+aside{
+    float: left;
+    border: 3px dashed #ff4dff;
+    padding: 5px;
+    width: 25%;
+    border-radius: 5px;
+}
+main{
+    float: right;  
+    border: 1px solid #ff4dff;
+    padding: 5px;
+    font-size: 20px;
+    width: 60%;
+    border-radius: 5px;
+}
+aside button{
+    padding: 5px;
+    margin: 7px;
+    font-size: 20px;
+    text-align: center;
+}table, th, tr{            
+    background-color: #ffccff;
+    border-radius: 5px;
+}
+th{
+    background-color: #ff4dff;
+    color:white;
+}
+#deleteDiv{
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 150px;
+}
+a{
+    color: #ff4d4d;
+    font-size: 20px;
+}
